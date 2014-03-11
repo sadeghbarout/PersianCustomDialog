@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PersianCustomDialog</string>
+    <string name="action_settings">Settings</string>
+	<string name="title">دیالوگ</string>
+	<string name="message">این متن برای نمایش توضیحات است</string>
+	<string name="btn1">دیالوگ ساده</string>
+	<string name="btn2">دیالوگ با لیوت جداگانه</string>
+	<string name="btn3">دیالوگ با لیوت جداگانه و باتن</string>
+	<string name="ok">خوب</string>
+	<string name="Cancel">کنسل</string>
+	
+</resources>
