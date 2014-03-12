@@ -22,7 +22,7 @@ persianDialogBuilder.show();
 ```
 
 <div lang="fa" dir="rtl"><strong>
-دیالوگ فارسی چیزی نیست به جز یه کلاس ساده(<code>PersianDialogBuilder.java</code>)  همراه با یک فایل لیوت (<code>persian_dialog_layout.xml</code>)<br>
+دیالوگ فارسی چیزی نیست جز یه کلاس ساده(<code>PersianDialogBuilder.java</code>)  همراه با یک فایل لیوت (<code>persian_dialog_layout.xml</code>)<br>
 شما میتوانید این دوفایل را درون پروژه خود وارد کنید و از آنها همانند کد بالا به سادگی استفاده کنید.
 اگر نیاز به اضافه کردن جزئیات بیشتری دارید میتوانید xml شخصی خود را بسازید (<code>example_layout.xml</code>) و آن را همانند کد زیر در کلاس فراخوانی کنید
 </strong></div>
